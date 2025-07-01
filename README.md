@@ -40,7 +40,7 @@ Clone the repo:
 
 bash
 ```
-git clone https://github.com/your-username/doctor-bot.git
+git clone https://github.com/sowmya13531/Chat-Bot-using-Python-and-ML.git
 cd doctor-bot
 ```
 
@@ -55,7 +55,7 @@ pip install newspaper3k scikit-learn nltk
 
 bash
 ```
-python doctor_bot.py
+python Doctor Chatbot.py
 ```
 
 ✅ Works well in Google Colab with color support.
