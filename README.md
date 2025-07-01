@@ -19,7 +19,7 @@ Google Colab – for interactive development
 
 ## 📄 Sample Source Article
 Doctor Bot fetches data from this article:
-🔗 Mayo Clinic - Heart Disease
+🔗https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118 Mayo Clinic - Heart Disease
 
 ## 🧪 Example Conversation
 You: hi  
